@@ -1,4 +1,6 @@
 # Retail Sales Performance Dashboard (Power BI)
+## Preview
+![Dashboard](images/dashboard_preview.png)
 
 ## Overview
 Developed an interactive Power BI dashboard to analyze retail sales performance across regions, categories, and customers.
@@ -21,5 +23,4 @@ Developed an interactive Power BI dashboard to analyze retail sales performance 
 - DAX
 - Data Cleaning (Power Query)
 
-## Preview
-![Dashboard](images/dashboard_preview.png)
+
