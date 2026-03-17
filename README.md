@@ -1,6 +1,6 @@
 # Retail Sales Performance Dashboard (Power BI)
 ## Preview
-![Dashboard](images/dashboard_preview.png)
+![Dashboard](dashboard_preview.png)
 
 ## Overview
 Developed an interactive Power BI dashboard to analyze retail sales performance across regions, categories, and customers.
